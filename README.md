@@ -1,22 +1,22 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/LvJ1qZy/Istiaq-Linked-In-Banner.png"  />
+  <img height="230" src="https://i.ibb.co.com/LvJ1qZy/Istiaq-Linked-In-Banner.png"  />
 </div>
 
 ###
 
-<h1 align="left">Hi there 👋 I am Istiaq Ahsan</h1>
+<h1 align="center">Hi there 👋 I am Istiaq Ahsan</h1>
 
 ###
 
-<h4 align="left">WEB DEVELOPER || MERN STACK DEVELOPER</h4>
+<h4 align="center">WEB DEVELOPER || MERN STACK DEVELOPER</h4>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">Hello, I’m Istiaq👋. My core skills are rooted in frontend development, and I have a strong affinity for working with JavaScript. I am currently working on full-stack projects using the MERN stack and exploring the integration of modern web technologies and advanced features to create impactful applications.<br><br>I am currently studying  Computer Science and Engineering at International Islamic University Chittagong.</p>
+<p align="center">Hello, I’m Istiaq👋. My core skills are rooted in frontend development, and I have a strong affinity for working with JavaScript. I am currently working on full-stack projects using the MERN stack and exploring the integration of modern web technologies and advanced features to create impactful applications.<br><br>I am currently studying  Computer Science and Engineering at International Islamic University Chittagong.</p>
 
 ###
 
@@ -63,10 +63,18 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=istiaq-ahsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiaq-ahsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
